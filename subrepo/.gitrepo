@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/ait-vgl/suprepo
+	branch = master
+	commit = 48b3016078a30d515718fc124d87dd8fde799a40
+	parent = 3793fc776b6c78b4412b42e4bba52bbcd1c0c962
+	cmdver = 0.3.0
