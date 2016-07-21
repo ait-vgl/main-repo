@@ -7,5 +7,5 @@
 	remote = https://github.com/ait-vgl/suprepo
 	branch = master
 	commit = 48b3016078a30d515718fc124d87dd8fde799a40
-	parent = 3793fc776b6c78b4412b42e4bba52bbcd1c0c962
+	parent = a22e5bb3b4c88c1514fd5a3fcea5693572a69ab2
 	cmdver = 0.3.0
